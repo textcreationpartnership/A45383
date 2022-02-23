@@ -1,0 +1,789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old English officer, being a necessary looking-glass for a Christian army, or, A fit companion for young souldiers wherein you may behold a perfect, easy, and speedy path to obtain the exercise and discipline of foot, and make soldiers fit for present service ... : with plain directions and good instructions out of sacred and moral histories of worthy commanders, how they should behave themselves in time of peace and war ... / written by Charles Hammond ...</title>
+            <author>Hammond, Charles, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45383</idno>
+            <idno type="STC">Wing H497</idno>
+            <idno type="STC">ESTC R10512</idno>
+            <idno type="EEBO-CITATION">13113330</idno>
+            <idno type="OCLC">ocm 13113330</idno>
+            <idno type="VID">97717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 419:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old English officer, being a necessary looking-glass for a Christian army, or, A fit companion for young souldiers wherein you may behold a perfect, easy, and speedy path to obtain the exercise and discipline of foot, and make soldiers fit for present service ... : with plain directions and good instructions out of sacred and moral histories of worthy commanders, how they should behave themselves in time of peace and war ... / written by Charles Hammond ...</title>
+                  <author>Hammond, Charles, 17th cent.</author>
+               </titleStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military ethics --  Early works to 1800.</term>
+               <term>Soldiers --  Conduct of life --  Early works to 1800.</term>
+               <term>Drill and minor tactics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97717:1"/>
+            <pb facs="tcp:97717:1" rendition="simple:additions"/>
+            <p>THE Old Engliſh Officer. BEING A neceſſary Looking-glaſs For a Chriſtian ARMY. OR A fit Companion for Young SOULDIERS.</p>
+            <p>Wherein you may behold a Perfect, Eaſy, and ſpeedy path to obtain the Exerciſe and Diſci<g ref="char:EOLhyphen"/>pline of Foot, and make Soldiers fit for preſent Service; either in Field or Garriſon, the <hi>Old Engliſh</hi> Military way.</p>
+            <p>With plain Directions and good Inſtructions out of Sacred and Moral Hiſtories of Worthy Commanders, how they ſhould behave them<g ref="char:EOLhyphen"/>ſelves in time of <hi>Peace</hi> and <hi>War;</hi> Delightful to hear, and profitable to practiſe theſe Times.</p>
+            <p>
+               <hi>Written by</hi> Charles Hammond <hi>Captain of Foot, by Commiſſion under K.</hi> Charles <hi>the Firſt, of ever Bleſſed Memory, and one of the Sons of the Clergy.</hi>
+            </p>
+            <p>It was the ſaying of <hi>Jeſus</hi> the Son of <hi>Sirach,</hi> Eccl. 26.28. ver. there was two things grieved his heart, <hi>To ſee a Man of War ſuffer Poverty, and men of underſtanding not ſet by.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97717:2"/>
+            <pb facs="tcp:97717:2"/>
+            <head>The Epiſtle.</head>
+            <head>To the Young Heroick spirited Reader, whoſe Reſolutions are generally Affected to Military profeſſion, and well deſerving that Honourable Name of a Soldier. Wiſdome, Valour and Victory, attend ever their Service for God, for Religion, for his Church &amp; for their King and Country, Amen.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>FInding there is little likelyhood of my being imploy'd abroad in theſe times, I thought not to be idle at home; but would advance and incourage as much as lay in me, that Honourable Calling of a Soldier, which I have been a well-wiſher to this Forty years, in the Service of our Gracious Soveraign that now is, and all along in his Royal Fathers of ever bleſſed Memory: and now in theſe times of Acti<g ref="char:EOLhyphen"/>on, to take off the ill thoughts of many men, and convince them as much as lies in my power of
+<pb facs="tcp:97717:3"/>their opinions, which many will buſy themſelves and diſcourſe on.</p>
+            <p>Frſt thoſe that look upon Soldiers with a ſcorn<g ref="char:EOLhyphen"/>ful eye, as men not worthy of Reſpect and Ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p n="2">2. Them that think Old Soldiers not fit for Imployments or Commands.</p>
+            <p n="3">3. Such as caſt an aſperſion on thoſe that ſerved his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſty, in the Wars.</p>
+            <p n="4">4. All that think the old Diſcipline of <hi>England</hi> cannot be taught as ſhort and ſerviceable as the new way.</p>
+            <p n="5">5. They which will hold that opinion that wars is not lawful.</p>
+            <p>And Laſtly, to convince that rebellious principal of too many that will argue and hold it lawful <hi>that Subjects may take up Arms againſt their lawful Soveraign in points of Religion:</hi>
+            </p>
+            <p>Gentlemen I muſt confeſs I am no Scholar, though I ſprung from the Loyns of the Clergy, my Father and Grandfather being both of that Function, but they dying in my minority, I was brought up and Educated otherwiſe with that Learning they left me, which was enough to in<g ref="char:EOLhyphen"/>ſtruct me in the points of Loyalty, and to defend my Religion in the Engliſh Tongue: and as I ever took delight from my Youth, to learn and ſtudy the practick part of the Diſcipline of Foot, to inable me as much as could to be a Soldier, an<g ref="char:EOLhyphen"/>ſwerable to that Command I obtain'd; ſo I made it
+<pb facs="tcp:97717:3"/>my ſtudy in ſpare time, to Read and Learn out of Sacred and Moral Hiſtories and Authors, and worthy Commanders, how Soldiers might live and behave themſelves to their credit, and for the Honour of God, their King and Countrey.</p>
+            <p>For want of Memory and practiſe I have for<g ref="char:EOLhyphen"/>got much of both; yet this ſmall Treatiſe, if pra<g ref="char:EOLhyphen"/>ctis'd, I hope may ſerve you as an <hi>A. B. C.</hi> to be<g ref="char:EOLhyphen"/>gin withall, till your experin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and abler School-Maſters in Diſcipline can teach you more: which I hope will not be deſpis'd by any that are well-wiſhers to an old Soldier. Now I deſire you if you find any Errors of the Preſs to paſs it by, if in me, judge it my forgetfulneſs for want of imployment and Exerciſe, which I wiſh all young Officers that are now honoured with the firſt (imployment or Command may not forget the laſt) Exerciſe, when Time and Opportunity ſerves; which will redown'd to their Honour, the incouragement of their Soldiers, the daunting of their Enemies when they come upon Service, and the glory of our King and Nation, which I ſhall heartily pray for, and wiſh to hear, and as willingly ſerve to the utmoſt of my Power and Ability.</p>
+            <closer>
+               <signed>Charles Hammond.</signed>
+               <dateline>From my Houſe in <hi>Cloth Fair</hi> next door to the Sign of the <hi>Harts Horns.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:97717:4"/>
+            <pb facs="tcp:97717:4"/>
+            <head>The Contents of the Chapters.</head>
+            <list>
+               <item>
+                  <hi>CHAP. I.</hi> Of the Honourable Calling and Imployment of a Right Souldier.</item>
+               <item>
+                  <hi>CHAP. II.</hi> Of Preſt men and Volunteers.</item>
+               <item>
+                  <hi>CHAP. III.</hi> Of the juſt cauſes of making war.</item>
+               <item>
+                  <hi>CHAP. IV.</hi> For the choice of Soldiers and Officers.</item>
+               <item>
+                  <hi>CHAP. V.</hi> Of Diſcipline, Government, and the Evils to be avoided in a Camp, and Puniſhed.</item>
+               <item>
+                  <hi>CHAP. VI.</hi> Directions and Inſtructions for the Diſcipline of Foot Soldiers.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97717:5"/>
+            <lg>
+               <l>Judge not the Author</l>
+               <l>Till you have Read his Book</l>
+               <l>Spare time, have Patience too</l>
+               <l>Obſerve and look</l>
+               <l>O're every Leaf, and then</l>
+               <l>I hope you'l find</l>
+               <l>Truth guide his Pen</l>
+               <l>A Loya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heart hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mind.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:97717:5"/>
+            <head>Of the Honourable Calling and Imployment of a Right Soldier.</head>
+            <p>A Right Soldier in his Vocation, well qualified and behaving himſelf worthi<g ref="char:EOLhyphen"/>ly indeed, liveth in a Courſe of life wor<g ref="char:EOLhyphen"/>thy Honour; and his imployment in Warlike affairs is very honourable.</p>
+            <p>Firſt God himſelf is pleaſed to carry the name of a Soldier, <hi>God is a man of Way</hi> (ſaith Moſes) <hi>Exod,</hi> 15.3. and the Son of God profeſſed him<g ref="char:EOLhyphen"/>ſelf to be, <hi>a Captain of the Lords Hoſt.</hi> Joſhua 3.14.15.</p>
+            <p n="2">2. The moſt Renowned in Holy Writ, and in Human Stories, have attain'd to great Fame and glory by their valient acts and Feats of Arms, as we may ſee in <hi>Joſhua,</hi> in <hi>Gidian, Ebud, Buruc, Sampſon, David</hi> and his Warriours. What ſpee<g ref="char:EOLhyphen"/>ches are there of the Nine Worthies? whereof <hi>Joſhua, David</hi> and <hi>Judas Machabeus</hi> are three, it is all for their Valour and victory in Battel; by Warr the Fame and Memory of <hi>Julius Caſar, Great Alexander, Pirrhus, Themiſtocles, Sci<g ref="char:EOLhyphen"/>pio, Hannibal, Scanderberg,</hi> and <hi>Charles</hi> the <hi>5th.</hi> remain immortal, and innumerable others both in Prophane and Divine ſtory.</p>
+            <p n="3">3. Whence came all thoſe greatly affected Ti<g ref="char:EOLhyphen"/>tles
+<pb facs="tcp:97717:6"/>now in the world, roſe they not from Valour, Proweſs, Military employments and Exerciſe of Arms? whence came Eſquire, but by being <hi>Ar<g ref="char:EOLhyphen"/>miger,</hi> an Armour Bearer, whence came a Knight of old, not by ſcraping of Wealth and buying the Title, but by being <hi>Miles</hi> a Soldier, a Noble man; an Earl, a Duke, nay the higheſt name of Dignity, an Emperour, but from Honour in the field beſtowed upon him that knew how to Rule and Command an Hoſt of men.</p>
+            <p n="4">4. <hi>Solomon</hi> the wiſeſt of Kings that ever was, held ſuch as were men of Warr to be more honou<g ref="char:EOLhyphen"/>rable than to be imployed in ſervile work, ſuch as he employed ſtrangers in, 2 <hi>Chron.</hi> 8.9. And the people of <hi>Canaan</hi> the <hi>Hittites, Amorites, Periz<g ref="char:EOLhyphen"/>zites, Hivites</hi> and <hi>Jebuſites</hi> baſe people, were not worthy to be men of War, the function was too honourable for them, as it is for too many that are admitted ſometimes, more fit for Stocks, Bridewell, Goals, Gallies, or the very Gallows, than to be Inrolled among the honourable and men truly worthy the name of Soldiers, if the worth of a true Soldier were well weighed.</p>
+            <p n="5">5. By the profeſſion of Arms many have at<g ref="char:EOLhyphen"/>tained from a mean condition to great honur, <hi>Da<g ref="char:EOLhyphen"/>vid</hi> from a ſhepherd to be a King of Iſrael, <hi>Jepttha</hi> of baſe birth, yet by valour became a Judge in <hi>Iſ<g ref="char:EOLhyphen"/>rael, Iſicrates</hi> the Athenian who was Lieutenant to <hi>Artaxerxes</hi> was he not a Coblers ſon, <hi>Eume<g ref="char:EOLhyphen"/>nes</hi> one of <hi>Alexanders</hi> Captains, was a Carters
+<pb facs="tcp:97717:6"/>ſon, <hi>Servius Tullius</hi> who triumphed 3 times, was the ſon of a poor ſervant, <hi>Diocleſian</hi> though a bloody perſecutor of the Chriſtians, yet a valiant man, obtained the Empire by his Proweſs &amp; valour and yet but a Scriveners ſon. <hi>Nicholas Pichinni<g ref="char:EOLhyphen"/>no</hi> the great Captain and Commander of the Ar<g ref="char:EOLhyphen"/>mies of the Potentates in <hi>Italy</hi> was but a Butchers ſon: The famouſeſt Nations of the World the Romans who ſubdued Kingdoms, never held any profeſſion worthy ſo great honour, nor ever re<g ref="char:EOLhyphen"/>warded any ſo much as they did Valiant men, ge<g ref="char:EOLhyphen"/>nerous ſpirits, adventuring their lives and obtai<g ref="char:EOLhyphen"/>ning thereby praiſes to themſelves and glory to their Nation, as their Hiſtories do ſhew.</p>
+            <p n="6">6. That Calling muſt needs be honourable which requireth ſo many honourable parts and praiſe-worthy Endowments, requiſite to make a man deſerving to be admitted into Military pro<g ref="char:EOLhyphen"/>feſſion, As to be a man of underſtanding, of a ſtout and undaunted courage, not fooll-hardy, but prudent and patient of an able body yet no Lub<g ref="char:EOLhyphen"/>ber or Luskiſh and ſluggiſh diſpoſition, but nim<g ref="char:EOLhyphen"/>ble and lively to execute deſignments, and crown<g ref="char:EOLhyphen"/>ing all this with true Religion, and zeal towards God, with a Loyal and faithful heart to his King and Countrey. For the honour of this profeſſion how great Volumns are written of men of War, their valiant deeds and Memorable acts have cau<g ref="char:EOLhyphen"/>ſed them to be Regiſtred to all Poſterity, by the Pen of the Learned, which cannot be read but with
+<pb facs="tcp:97717:7"/>great delight and great profit even to make valiant and couragious ſpirits emulous of their Fame and Glory: what profeſſion procured more honour to People a Nation then men of War hath done, <hi>Greece</hi> for her <hi>Achilles,</hi> and others: what pray<g ref="char:EOLhyphen"/>ſes everlaſting did <hi>Epirus</hi> that little countrey ob<g ref="char:EOLhyphen"/>tain by her Peerleſs <hi>Pirrhus,</hi> and that terrour to the Turk <hi>Scanderberg, Macedonia</hi> by her great <hi>Alexander; Troy,</hi> by her valiant <hi>Hector, Rome</hi> by <hi>Caeſar, Pompey, Scipio,</hi> and the reſt; <hi>Lacede<g ref="char:EOLhyphen"/>man</hi> by <hi>Simon</hi> and <hi>Leonidas; Carthage</hi> by her <hi>Hannibal,</hi> and ſo other places by their valiant Worthies: in a word who is more worthy ho<g ref="char:EOLhyphen"/>nour in the hearts of all vertuous men than a man of Courage, ſo he be well qualified, that by ſome baſe condition he wrong not himſelf, which true generoſity of ſpirit will utterly disdain to do.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II.</head>
+            <head>Of Preſt Men, and Voluntiers.</head>
+            <p>OF ſuch as go to war, there are two ſorts, ſuch as be commanded, and ſuch as offer them<g ref="char:EOLhyphen"/>ſelves; the former we call Preſſed, who without inforcement would not go, <hi>Moſes</hi> was as King in <hi>Iſrael,</hi> and he waited not for Voluntiers, but commanded to chuſe out of every Tribe 1000 to make an Hoſt of twelve thouſand to go againſt <hi>Mi<g ref="char:EOLhyphen"/>dian,</hi> ſo did <hi>Saul</hi> and <hi>David,</hi> 1 <hi>Sam.</hi> 21. 2 <hi>Sam.</hi>
+               <pb facs="tcp:97717:7"/>20. without which Command Princes could not have waged Battels as they then did.</p>
+            <p>The other ſort are termed Voluntiers, which are Natives or Forreigners, theſe men may offer themſelves to the wars, and enter into the Pro<g ref="char:EOLhyphen"/>feſſion of a Soldier; its not to be doubted <hi>Ehuds</hi> Soldiers were all Voluntiers at the found of a Trumpet, <hi>Judg.</hi> 3.27. So were the three ſons of <hi>Jeſſe,</hi> and ſuch were <hi>David's</hi> worthies, 1 <hi>Sam.</hi> 17. Again <hi>Deborah</hi> the Propheteſs praiſeth the Voluntiers which came to help <hi>Barak,</hi> beſides ſhe complaineth of ſuch as following their own private buſineſs, neglected the wars, and withal curſed <hi>Meroz</hi> for not coming to help the Lord <hi>Judg.</hi> 5.12.15.23.</p>
+            <p>Moreover, that which may be lawful by Pre<g ref="char:EOLhyphen"/>ſſing and compulſion may as well be lawful for Voluntiers if there be not very juſt cauſe or im<g ref="char:EOLhyphen"/>pediment to hinder this: A lawful calling may be as well undergone freely as by compulſion, elſe how ſhould Princes and States do that have not power to Preſs, if Voluntiers might not in good conſcience offer themſelves; but here Voluntiers muſt know and be reſolved of ſome things.</p>
+            <p n="1">1. Of the Calling of a Soldier, where it is law<g ref="char:EOLhyphen"/>ful and that a man may therein live, and as well receive wages as men do for diſcharge of other duties in any other lawful vocation: <hi>be content</hi> (ſaith John Baptiſt) <hi>with your wages,</hi> ſpeaking to Soldiers, therefore they may ſerve for wages.</p>
+            <p n="2">
+               <pb facs="tcp:97717:8"/> 2. Of the juſtice and lawfulneſs of the war in<g ref="char:EOLhyphen"/>to which he thruſts himſelf, ſeeing he goeth not by Command of ſupream Authority: if the war be juſt, a man may ſerve with a good conſcience of his own accord, but if it be apparently unjuſt, let men beware that they imbrew not their hands in blood going Volantiers if Princes command: that caſe is altered for private perſons may not ſit and judge of Princes actions; I have Read that St. <hi>Auſtine</hi> ſaith, <hi>That a good man may ſerve under a ſacrelegious Prince, for the unjuſt Command ſhall bind the Prince, when the duty of Obedience ſhall make the Soldier free.</hi>
+            </p>
+            <p n="3">3. They muſt have the leave of ſuch as have So<g ref="char:EOLhyphen"/>veraign Authority over them, for a Subject to one, cannot diſpoſe of his own perſon to the ſer<g ref="char:EOLhyphen"/>vice of another Prince without leave; but he may put himſelf voluntarily into the Service of his own Soveraign whoſe Subject he is.</p>
+            <p n="4">4. Voluntiers are to weigh with themſelves what ſpecial impediments they have to with-hold from going, in reſpect of ſome perticular calling, requiring their own perſon for diſcharge of the duties thereof, or ſome charge of a Family, Wife, and Children depending upon their perſonal be<g ref="char:EOLhyphen"/>ing neceſſarily amongſt them, or whether their being at home may do more good to the Countrey then the ſervice in War.</p>
+            <p n="5">5. Ther end muſt be good for defence of Re<g ref="char:EOLhyphen"/>ligion, their King and Countrey, for Relieving
+<pb facs="tcp:97717:8"/>the unjuſtly Oppreſſed for maintenance of Right and ſuch like, and withal to learn Experience for the good of their Countrey, but not to run in un<g ref="char:EOLhyphen"/>adviſedly, as ſome do out of a Malecontentedneſs, nor of an idle humor, nor of a fooliſh vain glory, or a bloody dſpoſition, of a baſe mind for Prey and Plundering, but as a man of valour, for more praiſe worthy and better ends.</p>
+            <p n="6">6. Laſtly that Voluntiers put themſelves under the Command of Authority to do Service, and to be ſubject to Rule and Diſcipline, obſerving Or<g ref="char:EOLhyphen"/>der, keeping their places where they are comman<g ref="char:EOLhyphen"/>ded, from which they may not depart without leave of ſuch Commanders as they have commit<g ref="char:EOLhyphen"/>ted themſelves unto: for though they enter vo<g ref="char:EOLhyphen"/>luntarily, yet being under Authority, they may not think themſelves then free at all times to part at their pleaſure, for if they ſhould, upon neceſſa<g ref="char:EOLhyphen"/>ry ſervice, ſuch wandring Stars and ſuch ſtrag<g ref="char:EOLhyphen"/>lers would utterly fail the Expectation of their Commanders.</p>
+            <p>Thus with theſe conſiderations, men may be Voluntiers and put themſelves into Military Ser<g ref="char:EOLhyphen"/>vice and Authority may admit of them, as both the Scriptures and Hiſtories ſhew, but yet the General and others with him muſt be cautious what Voluntiers they entertain; beware of ſuch as fly from the Enemy, let them be tryed before they be truſted, for we may read in ſtories that ſuch ſometimes hath been ſent of the Enemy to do miſchief.</p>
+            <pb facs="tcp:97717:9"/>
+            <p> Two Spaniards feighned themſelves Fugitives to the Venetians, with a purpoſe to kill <hi>Alvian</hi> their General, ſo did certain Turks with an in<g ref="char:EOLhyphen"/>tention to kill <hi>Scanderberg,</hi> the Munidians which ſeem'd to forſake <hi>Hannibal</hi> and to fall to the Ro<g ref="char:EOLhyphen"/>mans in the battel of <hi>Canna,</hi> were a great help to <hi>Hannibal</hi> to get the victory, in turning againſt the Romans upon a ſuddain, this wiſdome was among the <hi>Philiſtians</hi> going to battel againſt <hi>Saul,</hi> they would not admit of <hi>David</hi> and his company, many other Examples hath been abroad, and here at home in our late unhappy wars, but I hope our Commanders will be more careful abroad (if there be occaſion) in entertaining Voluntiers in other Countryes.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III.</head>
+            <head>Of the juſt Cauſes of making war.</head>
+            <p>VVArrs upon juſt cauſes undertaken is un<g ref="char:EOLhyphen"/>doubtedly lawful, though contrary to the opinion of ſome, but there is nothing more for incouragement in any action than to have Con<g ref="char:EOLhyphen"/>ſcience ſatisfied in the lawfulneſs thereof.</p>
+            <p n="1">1. God is pleaſed to be called a man of War, now he never admitted of a title of a thing unlaw<g ref="char:EOLhyphen"/>ful, <hi>Exod.</hi> 15.</p>
+            <p n="2">2. He has given command to his people to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, he made Laws for directions to them, when
+<pb facs="tcp:97717:9"/>they went to war God ſent his ſpirit upon them to incourage them, as in <hi>Gidion</hi> and <hi>Sampſon,</hi> as you may read in the Book of <hi>Judges,</hi> and in 1 <hi>Sam.</hi> 15.2 24. <hi>Num.</hi> 31.3.</p>
+            <p>God raiſed up ſome Prophets to comfort and ſet forward his people to war, thus he moved <hi>De<g ref="char:EOLhyphen"/>borah</hi> to call <hi>Barak</hi> into the wars, <hi>Judg.</hi> 4. and <hi>Jahazi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> to encourage <hi>Judah</hi> to go againſt their Enemies, 2 <hi>Chron.</hi> 20.14, 15. God taught <hi>Da<g ref="char:EOLhyphen"/>vid</hi> to play the part of a valiant Captain and Sol<g ref="char:EOLhyphen"/>dier, he made his hands to war and his fingers to fight, and made his arm ſtrong, for which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> tendred thanks to him, <hi>Pſal.</hi> 18.39.</p>
+            <p>Thus you may ſee what warrant war hath in the Old Teſtament, but in the New you will ſay tis otherwiſe, for he but once or twice at moſt is called the Lord of Hoſts, <hi>James</hi> 5.4. more often the God of Peace, and we do profeſs the goſpel the word of Peace; it is true, that all men ſhould ſeek peace, and enſue after it as a bleſſing of God, yet juſt and neceſſary war is not to be condemned, St. <hi>Ambroſe</hi> ſaith, <hi>it is part of Juſtice by war to defend our Countrey and confederates and ſuch as need aid from ſpoylers and oppreſſors:</hi> neither doth the New Teſtament <hi>Matt.</hi> 24. diſalow of war, ſo it be juſt; our Prince of peace tells us of war <hi>Rev.</hi> 19.17. and is pleaſed to be ſet out as the Captain of an Hoſt riding on horſeback, and ſubduing his Enemies; hereby ſhewing that his Church ſhall have wars and he will take their part: A Centu<g ref="char:EOLhyphen"/>rian,
+<pb facs="tcp:97717:10"/>and <hi>Cornelius</hi> a Captain, and a Soldier that feared God waited on him <hi>Acts</hi> 10.1. the Lord in calling the Gentiles to the Goſpel, made choice to begin with this calling; with a good conſcience we may take up Arms when there is no ſafety but in Arms; we muſt know that God taketh not away the Law of Nature to defend our ſelves by forcible means againſt violent Enemies, God hath now appointed Kings to uſe the Sword, not only to puniſh Offenders under them, but alſo to defend their Subjects from violence and wrong at home and abroad, and what hindreth Princes and States to recover what is juſtly their own, if other<g ref="char:EOLhyphen"/>wiſe not to be gotten but by force of Arms.</p>
+            <p>As we ſee the undertaking of war to be lawful and honourable, ſo it muſt be underſtood whether it be juſt; for the cauſe as it is, either Good or E<g ref="char:EOLhyphen"/>vil, ſo may the iſſue be thereafter expected; true it is that unjuſt wars may have good ſucceſs, for the iniquity of the people againſt whom they are undertaken; a juſt war is in defence of our King, our Countrey, our Religion and Liberty, God alloweth to go to war againſt an Enemy coming upon us, <hi>Exod.</hi> 17. <hi>Jud.</hi> 6. Upon this ground was the wars of <hi>Joſhua</hi> againſt the <hi>Amalekites,</hi> 1 <hi>Sam.</hi> 15. of <hi>Gidion</hi> againſt the <hi>Midianites,</hi> of <hi>Saul</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Philiſtines,</hi> of <hi>Ahab</hi> againſt <hi>Benhadad,</hi> the <hi>Romans</hi> againſt <hi>Hannibal,</hi> and of our antient <hi>Brittains</hi> here againſt the <hi>Romans, Saxons</hi> and <hi>Danes:</hi> Kings may juſtly war againſt native Re<g ref="char:EOLhyphen"/>bels,
+<pb facs="tcp:97717:10"/>it is a juſt war to help friends Allies &amp; Aſſo<g ref="char:EOLhyphen"/>ciates unjuſtly oppreſt and wrong'd, upon this ground <hi>Abraham</hi> armed himſelf againſt the four kings to recover <hi>Lot,</hi> whom they had carryed a<g ref="char:EOLhyphen"/>way, <hi>Gen.</hi> 14.14. <hi>David</hi> reſcued <hi>Keilah</hi> from the <hi>Philiſtines,</hi> 1 <hi>Sam.</hi> 23.1. <hi>Saul, Jaboſh Giliah</hi> from the <hi>Amonites, Judas</hi> and <hi>Simon</hi> his brother help<g ref="char:EOLhyphen"/>ed the other diſtreſſed Jews, 1 <hi>Mac.</hi> 5.10. It is a reproach to a Nation to forſake Friends, Confe<g ref="char:EOLhyphen"/>derates, and ſuch as ſhould be holpen in their di<g ref="char:EOLhyphen"/>ſtreſs, God willeth, alloweth us and commandeth us in ſuch a caſe: it is a juſt war to bring under ſuch as Rebel, or to get peaceable poſſeſſion of a Crown, juſtly claimed as <hi>David</hi> did the King<g ref="char:EOLhyphen"/>dome of <hi>Iſrael</hi> againſt <hi>Jeboſhah,</hi> and the houſe of <hi>Saul:</hi> Now leſt men imbroyl themſelves in need<g ref="char:EOLhyphen"/>leſs uſe of the Sword, to their own ruine, in the next place it is to be conſidered by what Authority this war is to be undertaken, for a neceſſary and juſt war doth not warrant every one upon their own heads to make war, though they be able to gather a people together; but the firſt mover thereof muſt be the Supream Authority of that Nation, the wars that God allowed, and ſo juſt which he alwaies commanded, were made ever under and by the Authority that he ſet over h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s people, <hi>Exod.</hi> 17.8. Tthe war againſt <hi>Amaleck, Num.</hi> 31. was commanded by <hi>Moſes,</hi> ſo was that againſt <hi>Midian;</hi> in like manner, <hi>Israel</hi> warr'd under the Command of <hi>Joſhua,</hi> and after under
+<pb facs="tcp:97717:11"/>the <hi>Judges,</hi> and then under <hi>Kings,</hi> as <hi>Saul, David</hi> and the reſt, therefore it is not for Chriſtian Sub<g ref="char:EOLhyphen"/>jects to be of that Rebellious principle, as to wage war or to take up Arms againſt their lawful So<g ref="char:EOLhyphen"/>veraign, under pretence of Religion, much more to deſtroy their Subjects, and murder one of the beſt of Kings, whoſe blood I am afraid cryes for Judgement ſtill on the heads of them and theirs that had a hand in it, and not truly repented for.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IV.</head>
+            <head>For the choiſe of Soldiers and Officers,</head>
+            <p>NOw in ſending forth an Army, great care muſt be had what ſorts of perſons are to be ſent forth.</p>
+            <p>Let them be Natives and Subjects living under that Soveraign Authority that ſends them out, though they be of ſeveral Countries; then their years ſuch as the Lord held fit for war were in <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> 20 years old and upward, <hi>Num.</hi> 26.2. and ſuch did <hi>Amaziah</hi> take for younger or hardly grown up to ſtrength, and above 46 (except old and expert Soldiers for skill) are not to be admit<g ref="char:EOLhyphen"/>ted, becauſe ſtrength decays 2 <hi>Chron.</hi> 25.5, as I have heard Learned Experienced Souldiers ſay, touching their bodies, in <hi>Iſrael</hi> were choſen ſtrong men, able to go to war, men of valour and cou<g ref="char:EOLhyphen"/>rage, ſtout and ſtrong, of a vigorous and coura<g ref="char:EOLhyphen"/>gious
+<pb facs="tcp:97717:11"/>mind, not fearful, 1 <hi>Sam.</hi> 14.51. for ſuch were put out of the Hoſt by God's appointment, and this did alſo that valiant <hi>Judas Maccabeus,</hi> 1 <hi>Macc.</hi> 3.56. what good will they do but fail in performance, make others to be faint hearted, and ſo give the Victory to the Enemy: likewiſe for their skill in Arms, raw and ignorant men are not to be put ſuddenly upon ſervice, for not a multitude, but Art and Exerciſe geteth the victo<g ref="char:EOLhyphen"/>ry, for the ignorant Soldier may not only endan<g ref="char:EOLhyphen"/>ger himſelf but his followers too, therefore the Soldiers in <hi>Iſrael</hi> were very expert men, <hi>Judg.</hi> 20.16.</p>
+            <p>Beſides all this, it is fit Soldiers ſhould be Re<g ref="char:EOLhyphen"/>ligious, ye very requeſite, becauſe they expoſe themſelves ſo to the danger of death, which none but ſuch as are Religious can be prepared, for he that is not truly Religious can never be truly va<g ref="char:EOLhyphen"/>lorous, for they then may expect God's ayd, they may fight with their hands and pray with their hearts, by which means that renowned <hi>Ma<g ref="char:EOLhyphen"/>chabeus,</hi> 2 <hi>Mac.</hi> 15.26.27. conquered <hi>Mica<g ref="char:EOLhyphen"/>canor,</hi> and ſlew of his Enemies 35 thouſand: Re<g ref="char:EOLhyphen"/>ligion will make men Valiant, never any in Holy Writ Recorded for Religious, but were indeed Valiant, for God requireth all ſhould fear him, there was <hi>Abraham, David, Aſa, Jehoidah</hi> the High Prieſt, <hi>Joſias</hi> the Religious King, all valiant men, and how can they otherwiſe chooſe but be valiant when they know that God is reconciled to
+<pb facs="tcp:97717:12"/>them, death if it come will be to them advantage, theſe only have Faith in God,<note place="margin">
+                  <hi>See Dr.</hi> Sutton <hi>Dean of</hi> Exeter, <hi>his book of War, moving the Ar<g ref="char:EOLhyphen"/>my to be religious.</hi>
+               </note> and ſo will be cou<g ref="char:EOLhyphen"/>ragious, the Religious, of conſcience will be obedi<g ref="char:EOLhyphen"/>ent, as <hi>Iſrael</hi> profeſſed to be to <hi>Joſhua,</hi> and are like the <hi>Centurians</hi> ſervant <hi>going and coming at com<g ref="char:EOLhyphen"/>mand,</hi> Matt. 8.9. and not mutanous, they are of a quiet behaviour and temperate, not bablers, drunkards, nor quarrelſome, they will eſteem of and love a worthy Captain according to his worth, who muſt be to them as a father, and they to him as ſons; for in <hi>Iſraels</hi> language they were called the ſons of the band, their Prayers are of more force to prevail with God to take their parts and to vanquiſh an Enemy than all other means be<g ref="char:EOLhyphen"/>ſides: <hi>Iſrael</hi> fought but <hi>Moſes</hi> did procure the Victory by Prayer; now I know ſome of your young roaring, Atheiſtical, Prophane ſwearing dam-me boys will laugh at this, and f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>off and de<g ref="char:EOLhyphen"/>ride this choice of Religious men, as having no pattern of warlike Chieftains to follow; let them look to the mighty man of war, the Lord of Hoſts, the King of Kings, and conſider what manner of Soldiers he did chooſe to fight his battels, the Commanders were Religious, as <hi>Joſhua,</hi> the <hi>Judges, Ehud, Gidion, Jepthah, David</hi> and o<g ref="char:EOLhyphen"/>thers, his Armies muſtered by the Lord, were called <hi>His ſanctified ones, Iſa.</hi> 23.3. ſet a part by
+<pb facs="tcp:97717:12"/>him to Military imployment, <hi>they were all mighty ones, and ſtrong, skilful to march and did not break rank, they cared not for wounds though the ſword pierced them,</hi> Joel 2.2, 5, 7, 8. <hi>verſes.</hi> I can bring you Examples here in our own Kingdome, in our late war, in the Army that was raiſed for the King in that ſmall County, when Sir <hi>Ralph Hopton</hi> came down, who was counted a Puritan, he was religious and a brave Souldier likewiſe, pray enquire of the worſt of our Enemies how it was governed, when they were firſt raiſed, and how God proſpered them, being but 5 Regiments of Foot and very few Horſe; The cheif Comman<g ref="char:EOLhyphen"/>ders the Lord <hi>Mohun</hi> Sr. <hi>Bevil Greenfield,</hi> Sr. <hi>Nicholas Slaning, Coll. Godolphin, Coll. Trevanion,</hi> and others which ventured their Eſtates, and moſt of them loſt their lives in the Service, their Offi<g ref="char:EOLhyphen"/>cers and Soldiers under them were as well inſtru<g ref="char:EOLhyphen"/>cted to fear God as as to honour and ſerve the King; Oaths was held ſo abominable amongſt moſt of the Officers, that the Soldiers durſt not ſwear an Oath before them. Likewiſe went to Pray<g ref="char:EOLhyphen"/>ers before we went to fight, if poſſible we had time, the Soldiers durſt not Command for a cup of beer, much leſs then to Robb, Plunder and Spoyl their Quarters where they march'd or lay, and for their undaunted valour and Reſolutions upon Service, it was very well tryed ſeveral times before they ever had Relief or could March out of their own Countrey to joyn with other Forces
+<pb facs="tcp:97717:13"/>as that Remarkable Fight at <hi>Stratten;</hi> in <hi>Corn<g ref="char:EOLhyphen"/>wal,</hi> where our Army was but 5000 foot at moſt, and about 17 Troops of Horſe, the Enemy 12000 Foot and 1500 Horſe, and a brave Artillery, 12 Braſs Guns, and we but 3 Iron guns, we fought them and totally routed them, the Earl of <hi>Stam<g ref="char:EOLhyphen"/>ford</hi> Commanding them, and <hi>Chidly</hi> his Lieute<g ref="char:EOLhyphen"/>nant General, whom we took Priſoner, and all their Artillery; the Fight beginning about three in the Morning, and continued till three in the Af<g ref="char:EOLhyphen"/>ternoon, they having another great body of Horſe at <hi>Bodnam,</hi> which likewiſe the next day we rou<g ref="char:EOLhyphen"/>ted and diſperſed, and having at laſt neither Pow<g ref="char:EOLhyphen"/>der nor Shot left, but Reſolution and clubs of Muſquets to fight them, we went to Prayers that Morning before we fought them, and that ſtrengthned our Forces, and Armed our Soldiers with undaunted Reſolution, in a word, no cou<g ref="char:EOLhyphen"/>rage like a Chriſtian courage.</p>
+            <p>But it will be objected, that <hi>Jeptha</hi> had in his Camp vain men, there gathered to <hi>David</hi> men in diſtreſs, in debt, diſcontented, ye and wicked men ſons of <hi>Belial,</hi> who fought with courage, recove<g ref="char:EOLhyphen"/>red their loſſes and ſlew the <hi>Amalekites.</hi>
+            </p>
+            <p>It is very true, but theſe were ſome only a<g ref="char:EOLhyphen"/>mongſt the reſt, the Commanders themſelves and others among them were well given, again, they had ſuch perſons as pleas'd to come to them in their diſtreſſes, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they did not hire ſuch as <hi>Abime<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>vain men and light men,</hi> Jud. 9, 4. A
+<pb facs="tcp:97717:13"/>Company fit for ſuch a Captain. Authority that may Preſs, may find fitter men for their Service in a good cauſe if they look to proſper, than Rogues, Loyterers, Swearers, debauch'd per<g ref="char:EOLhyphen"/>ſons, Goal-birds, Scuif and ſcumm of a people, held unworthy to live amongſt honeſt men, very Ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſts of Pariſhes, not to be admitted indeed unto the honour of being a Soldier; but ſome will perhaps ſay that out of theſe Routs of Out<g ref="char:EOLhyphen"/>caſts, ſome have proved very ſerviceable, alſo ſo may unclean Livers, prophane Swearers, and Cup Captains have ſhewed great courage in wars, and its known that Heathen men, <hi>Julius Caeſar, Alexander, Hector, Achilles, Themiſto<g ref="char:EOLhyphen"/>cles, Epaminondas, Pyrrhus,</hi> and infinite others have been va<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant Soldiers, for theſe latter though Heathens, yet moral vertiles have been commen<g ref="char:EOLhyphen"/>ded in them, and according to their Pagan Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion they were Religious; asking counſel of their gods, without which they would not go to war, and they hearkned to their <hi>Priests, Devines Southſayers, Astrologers, Chaldeans,</hi> and ſuch as was Revealers (as they thought) of the will of their gods: but for the Rout of Out-caſts it may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome, very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew have been ſerviceable, but wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have all the reſt been, an heathen could ſay, <hi>tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a Company Riotous and diſorderly, there is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> uſe,</hi> for the other that are held ſo valorous: tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is, that humane fortitude may be in an <hi>Abi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLunhyphen"/>leck</hi> that murtherer of his brethren, in an <hi>Abner
+<pb facs="tcp:97717:14"/>Joab,</hi> as it was in theſe fornamed Renowned Heathen, yea in other moſt lewd and vicious, and moſt prophane in religion, there may be out of Pride and ambition, out of a furious heat of heart out of a reſolved fool-hardy deſperateneſs, out of hope of ſpoyle; out of ſome ſuch grounds per<g ref="char:EOLhyphen"/>haps ſhewed a kind of valour: but this is not Chriſtian fortitude ſuch as was in <hi>David</hi> and o<g ref="char:EOLhyphen"/>thers accompanied with other laudible vertues, what deſperate companions were the three Sedi<g ref="char:EOLhyphen"/>trous Captains in <hi>Jeruſalem</hi> and their followers, they prodigally ſhed the blood of one another, and like Lyons fought with the <hi>Romans,</hi> but at length to their utter confuſion: what becomes of ſuch ſeeming valourous men let experience ſpeak? happy were it that Chriſtian Armies were gathe<g ref="char:EOLhyphen"/>red, of Religious, or at leaſt of civel and moral honeſt men, that the commendations of them might be like <hi>Scipio Africanus</hi> his Army, the meaneſt of whoſe Soldiers ſeemed to be grave Senators, but it is the Deportment, Diſcipline, and Conduct of Officers that muſt make experi<g ref="char:EOLhyphen"/>enced an well governed Soldiers, when <hi>David</hi> had numbred the people, as likewiſe <hi>Amaziah,</hi> they placed Commanders over them, of which ſomewere over thouſands, ſome over hundreds, ſome over fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties, 2. <hi>Sam.</hi> 18. and ſome but over tens, they were called the Officers of the Hoſt, the chief had command over many thouſands, all of them were choice perſons,
+<pb facs="tcp:97717:14"/>valiant men skilful in the uſe of Arms, ry'd Soldi<g ref="char:EOLhyphen"/>ers in the field worthy their places, they wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wiſe and valiant and ſuch as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God before them and in the ſervice of war offered themſelves to the Lord, and though all were worthy praiſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome exceeded others, and were more Renowned as were the ſpecial Worthies of <hi>David,</hi> and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without Pride in themſelves, not contemning o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers and without envy of the leſs famous, for any thing the Scripture ſpeaks of; the Leaders Captains and Officers were none of them young ſtriplings, raw and unskilful ſoldiers, but a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, if a <hi>David,</hi> a young man, a youth be advan'd to be Captain over a thoſand by <hi>Saul</hi> it was extraordinary indeed, becauſe he was known and had often ſhewed himſelf to be va<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant, a man of War, prudent in ſpeech, and wiſe in his actions and behaviour, for he had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lain a Lion and a Bear, and overcame <hi>Goliah,</hi> before this his ad<g ref="char:EOLhyphen"/>vancement, ſuch a youth as he may well be ad<g ref="char:EOLhyphen"/>mitted to Command, but <hi>Adrian</hi> the Emperour expreſly forbad beardleſs youths to aſpire to ſuch a charge; <hi>Alexander</hi> in his Expedition againſt <hi>Darius</hi> choſe ſuch for his Commanders as was Experienced in his Fathers ſervice, and of rip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judgement, ſuch as have not attaind to the grace of a manly countenance in ſuch man-like ſervices cannot procure authority ſufficient to command brave ſpirits; and ſuch as procured their places without deſert was removed. <hi>Caeſar</hi> being in <hi>A<g ref="char:EOLhyphen"/>frica</hi>
+               <pb facs="tcp:97717:15"/>diſmiſſed ſome Collonels &amp; Captains with diſ<g ref="char:EOLhyphen"/>grace becauſe they had got ſuch places by favour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by juſt deſervings; deſerts ſhould only ad<g ref="char:EOLhyphen"/>vance every officer ſuch as are Valiant, Loyal, Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igent, men of Skill and aiming at publick good, not profit, or other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourſes not befitting a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight Sol<g ref="char:EOLhyphen"/>dier, much leſs a ſound Chriſtian; worth in men advanceth the work intended; wars by God's bleſſing will proſper, ſoldiers will be more obedi<g ref="char:EOLhyphen"/>ent, and the whole Army better governed.</p>
+            <p>Now I would not have no young Gentlemen and Noble perſons miſtake me, that I ſhould any wayes yonder value ſuch as hath taken Command and raiſed men <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the ſpeedy advancing an Army; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know that ſome hath taken delight to experi<g ref="char:EOLhyphen"/>ence themſelves in Diſcipline from their youth <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d bent themſelves to learn to Command though they were never commanded: but I ſpeak of ſuch as deſpiſe, and ſcornfully look upon old Officers, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not worthy to bear the Titles they have honou<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly got, much leſs to have Commands anſwera<g ref="char:EOLhyphen"/>ble to what they are able to undertake, and with knowledge and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perform if try'd, which I beleive if His Majeſty knew their conſtant Loyal<g ref="char:EOLhyphen"/>ty, their former ability, and their now indigen<g ref="char:EOLhyphen"/>cy, they ſhould be ſome wayes provided for, as well as others, though they are old, elſe it is a bad encouragement for the young: that virtuous and valiant King, <hi>Pyrrhus</hi> who was the greateſt Commander that was in his time, when word
+<pb facs="tcp:97717:15"/>was brought him, that one that was an old Soldi<g ref="char:EOLhyphen"/>er who had faithfully ſerved him was dead, the King was very ſorry, ſome told the King he was old, and ripe for death, <hi>Yes</hi> (ſaith the King) <hi>I am not ſorry for his death, but that death hath cut him off from the good that he deſerved, and I inten<g ref="char:EOLhyphen"/>ded him:</hi> it is written of the <hi>Lacedemonians,</hi> that they did not only provide for men which ſerved them in the wars with good ſalleries, but alſo the very horſes when they were grown old, they bought a piece of ground to keep them in.</p>
+            <p>I found an old Treatiſe that was tranſlated out of a Spaniſh copy, was Printed at <hi>Saragoza</hi> 100<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but remain'd in <hi>Oxford,</hi> dedicated to our late So<g ref="char:EOLhyphen"/>veraign, of ever bleſſed Memory, King <hi>Charles</hi> the firſt, the Life and Death of <hi>Jacobo Alman<g ref="char:EOLhyphen"/>ſor</hi> an <hi>Arabian,</hi> Mahometan King, for Example, it is written of his Vertues and Victories, when he ſaw his Officers were grown old, having ſpent their beſt time in his ſervice licen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed then to take reſt, and honoured them with places in Cities, Caſtles and Fortreſſes, giving them good Saleries, receiving ſtill their Pay what they had in the wars, which was the cauſe he never wanted men of Service, and he won eighty and ſix battels by Sea and Land, Conquered <hi>Spain,</hi> and took five Kings, ſubdued <hi>Aſia, Africa</hi> and <hi>Europe,</hi> it is ſaid of him in his Epitaph, <hi>That he obſerved Juſtice with benignity and mercy, and ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the nakedneſs, hunger and thirſt of his Subjects with
+<pb facs="tcp:97717:16"/>his large and liberal hands.</hi> He began his Raign in <hi>Anno Dom.</hi> 654 and dyed in 723.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V.</head>
+            <head>Of Diſcipline, Government, and the Evils to be a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oided, in a Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p and puniſhed.</head>
+            <p>AN Army gathered, General, and Officers choſen, and by good coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el the war eſtabli<g ref="char:EOLhyphen"/>ſhed, yet all is nothing without Military Diſci<g ref="char:EOLhyphen"/>pline; which is the main foundation and ſtrength of an Army, the Lord therefore when he brought forth his Hoſt of the Iſraelites under the General <hi>Moſes,</hi> he appointed a ſtrict Diſcipline, which is the ſtrongeſt guard to preſerve an Army from deſtruction. <hi>Alexander Severus,</hi> ſo called, for his ſtrickt obſerving of Diſcipline, he held Diſcipline the preſervation of the Common-wealth, as the letting of it ſlip ſhould be the loſs both to his Name and Empire. <hi>Scipio Africanus</hi> ſo obſerved Diſ<g ref="char:EOLhyphen"/>cipline, as his Soldiers ſeemed Senators, as <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> witneſſeth: the cruel Turks obſerve Diſ<g ref="char:EOLhyphen"/>cipline to our admiration, by which they have mightily prevailed againſt us Chriſtians, who may be aſhamed of our over much looſneſs there<g ref="char:EOLhyphen"/>in.</p>
+            <q>The well ordering of the Hoſt of Iſrael by the Lord, ſtood in theſe things.</q>
+            <p>Firſt, in making excellent Laws for googo-N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment,
+<pb facs="tcp:97717:16"/>for his Laws were ſo righteous as no<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation could come near them, nor had the lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as <hi>Moſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> old them, <hi>Good Laws are the founda<g ref="char:EOLhyphen"/>tion of Order and Diſcipline,</hi> the guide of mens actions and preſervation of an Army, without which there would be nothing but diſorder and ſo confuſion.</p>
+            <p>Secondly, in the Execution of thoſe Laws, from which none might turn either to the right hand or to the left, the life of all Laws is to ſee them obſerved and ſtrictly obeyed, for elſe Laws be made in vain.</p>
+            <p>Thirdly, in not allowing any priveledge to any perſon to tranſgreſs the Laws; <hi>Moſes</hi> the General was a ſtrickt obſerver thereof, and ſo was his Deputy Lieutenant <hi>Joſhua,</hi> and if <hi>Moſes</hi> himſelf tranſgreſſed, he taſted of the Kings the Lord of Hoſts diſpleaſure, <hi>Num.</hi> 20.12, 14. <hi>Moſes</hi> was ſo juſt and ſtrict a juſticer, that in juſt proceedings he would have none ſpared, not the heads of the people, nor any to ſpare his bro<g ref="char:EOLhyphen"/>ther, nor his companion, nor his Son, <hi>Saul</hi> would have put <hi>Jonathan</hi> to death for not keeping the charge put upon the whole Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; <hi>Num.</hi> 25.4. <hi>Exod.</hi> 32.27.29. And the <hi>Romans</hi> without reſpect of perſons, puniſhed offenders: the Con<g ref="char:EOLhyphen"/>ſul <hi>Titus Manlius</hi> cauſed his own ſon (for break<g ref="char:EOLhyphen"/>ing the Law of Diſcipline, though otherwiſe his act in ſlaving an upbraiding Enemy was honoura<g ref="char:EOLhyphen"/>ble, and to the Romans beneficial) to be Be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<g ref="char:EOLhyphen"/>ded,
+<pb facs="tcp:97717:17"/>none in a Camp may think themſelves free from obſerving Order, no not the General, for he that commandeth others, muſt order well him<g ref="char:EOLhyphen"/>ſelf, or his command will grow in to contempt; this made <hi>Papirus</hi> to purpoſe the death of the Ge<g ref="char:EOLhyphen"/>neral of his Horſe, becauſe he fought without command, though he returned Victorer; <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> the great, would deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of his Soldiers the obſervation of no ſtricter Laws than himſelf would undergo: <hi>Adrian</hi> the Emperor was ſingular praiſe worthy for this, ſo was <hi>Scipio, Severus</hi> and others.</p>
+            <p>Fourthly, in promiſing rewards to the obedi<g ref="char:EOLhyphen"/>ent, grace and favour to ſuch as keep themſelves within bounds and good government; the promi<g ref="char:EOLhyphen"/>ſes are ſet down at large in many places by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> and was faithfully performed as to <hi>Caleb, Jo<g ref="char:EOLhyphen"/>ſhua, Phineas,</hi> and others; this will procure love to the Laws, make them more remarkable, and take up the minds of the well diſpoſed with a watchful care to obey them; for as impartial Ex<g ref="char:EOLhyphen"/>ecution of Laws terrifies ſome, ſo the reward per<g ref="char:EOLhyphen"/>formed putteth life and courage into the hearts of other ſome to do worthily. Now the evils to be avoided and puniſhed are ſeveral; there is nothing diſpleaſing to God but ſin, and ſin it is that pre<g ref="char:EOLhyphen"/>vents God's bleſſings, <hi>Deut.</hi> 23.9. and cauſeth all ſucceſs, as <hi>Moſes</hi> exhorted <hi>Iſrael,</hi> and as <hi>Au<g ref="char:EOLhyphen"/>relianus</hi> the Emperor ſaid to his General in a Mi<g ref="char:EOLhyphen"/>litary Epiſtle of his, <hi>if thou be a tribune, yea if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou wilt live, keep back the Soldiers hands from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing evil.</hi>
+            </p>
+            <p n="1">
+               <pb facs="tcp:97717:17"/> 1. Evil to be taken heed of is <hi>Atheiſme,</hi> deri<g ref="char:EOLhyphen"/>ding of God and Religion, curſing and blaſphe<g ref="char:EOLhyphen"/>ming his name, this God puniſheth with death, <hi>Lev.</hi> 24.16. for where God and Religion is con<g ref="char:EOLhyphen"/>temned, what can proſper? <hi>Q. Fabius</hi> a Heathen imputed the calamity that befel the Romans in the overthrow of <hi>Flanimus,</hi> to be the neglect of Religion; and the only means ſaid he to recover God's <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour, was to reverence it, and to have a care to pleaſe God; ſhould then a Chriſtian de<g ref="char:EOLhyphen"/>ride God and Religion: what came of <hi>Rabſakah</hi> and other Blaſphemers? God did ſlay in his Hoſt 85000. <hi>Julian</hi> the Emperour after he apoſtated and became Chriſt's Enemy, he ſoon came to de<g ref="char:EOLhyphen"/>ſtruction<g ref="char:punc">▪</g> and <hi>Julian</hi> his Uncle, who in contempt of Chriſt and the Sacrament, piſſed againſt the Table; before he dyed he fell into ſuch a Diſeaſe as made his entrails rot, and he to void filth at his mouth: and the abuſe of his name by ſwearing and curſing and damned Oaths, the Lord telleth us that a curſe remaineth upon them, and he threatneth to cut them off: yet ſome hold them<g ref="char:EOLhyphen"/>ſelves no Soldiers, till they can graceleſly, as a grace to them, thunder out bloody Oaths, ay and of late days, what terrible oaths have been inven<g ref="char:EOLhyphen"/>ted, that it would make one that hath any fear of God in him, tremble to hear them: let me be bold to tell you, that if you were not Atheiſts and be<g ref="char:EOLhyphen"/>leived there was no God, you would never ſo of<g ref="char:EOLhyphen"/>ten call upon him to damn you for every idle falſe
+<pb facs="tcp:97717:18"/>thing that you do: but how can the Soldiers be controuled for it when they learn it of their Offi<g ref="char:EOLhyphen"/>cers; let your Valour, Diſcipline, and conduct be never ſo good, you may find thoſe Oaths be the cauſe of conquering of you, and if God be not the more merciful to you, your damnation may fall upon you as ſuddenly as you have often wiſht it.</p>
+            <p n="2">2. <hi>Prophanation</hi> of the Sabboth, the Lord's day, God puniſhed this in the Camp of <hi>Iſrael, Judas Maccabeus</hi> took ſpecial care to keep the Sabboth with his Hoſt, when <hi>Nicanor</hi> King <hi>Deme<g ref="char:EOLhyphen"/>triu's</hi> General would in contempt of God fight with <hi>Judas</hi> on the Sabboth day, there was ſlain of his men 35000 and he kill'd, his head ſtruck off, his tongue cut out for blaſphemy, and his head ſent to <hi>Jeruſalem</hi> to be hang'd upon the Tower, 2 <hi>Macc.</hi> 8.27.</p>
+            <p>One of the Kings of <hi>Denmark,</hi> contrary to the perſwaſions of the Divines, would joyn battel with an Enemy upon the day of <hi>Pentecoſt,</hi> but he loſt the Field and his life withal, vain ſports are to be abandoned on the Lord's day in a Chriſtian Hoſt.</p>
+            <p n="3">3. <hi>Rebellion</hi> treaſonable practiſes, Mutanies, Rebellion againſt lawful Authority God puniſheth extraordinarily, making the Earth to open and ſwallow up ſome, and fire to devour others; ſee it in <hi>Abſolom</hi> though he had moſt of <hi>Iſrael</hi> to take his part, let the end of them, <hi>Bichry</hi> and <hi>Zimery</hi>
+               <pb facs="tcp:97717:18"/>make men take heed of Rebellion Treaſonable practiſes and conſpiracies and ſecret working with the Enemy are to be carefully lookt into, and to be prevented; and the parties found out, ſeverely puniſhed; for good <hi>Gedeliah</hi> being warned, and not making timely enquiery, was by trayterous <hi>Iſhmael</hi> cruelly murthered; ſo one <hi>Quintilius Va<g ref="char:EOLhyphen"/>rus</hi> for being too ſlack to find out the treachery of one <hi>Narminius</hi> of which he had intelligence, was ſlain with all his company: of ſuch was <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi> in danger, but his wiſdome prevented, and <hi>Judas Maccabeus</hi> had a Rodorus among them a diſcloſer of ſecrets to the Enemy, but he was found out: <hi>Cyrus</hi> the younger Executed one <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>untes</hi> which went about to betray him to the Enemy.</p>
+            <p>
+               <hi>Mutany,</hi> God puniſheth murmuring, and ſuch as cauſe Sedition; and ſtir up others to grow Rebellious; <hi>Scipio</hi> upon a Mutany of his Soldiers in <hi>Spain,</hi> put to death the chief movers, and ſo pacified the reſt; ſo did <hi>Tiberius,</hi> when his did Mutany in <hi>Pannania;</hi> but it is hard meaſure to poor ſtarving Soldiers, for coming and deman<g ref="char:EOLhyphen"/>ding their pay in extream need to be held Muta<g ref="char:EOLhyphen"/>nous; for only this Captains ſhould hang ſome to make others willing to dye rather for hunge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then any more to complain, which is unchriſtia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cruelty, and mercileſs inhumanity.</p>
+            <p n="4">4. The ill uſe of much <hi>Gameing,</hi> a thing that was not in uſe in <hi>God's</hi> Hoſt, and good it we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:97717:19"/>that it were leſs in uſe in our <hi>Camp,</hi> for <hi>God</hi> is diſ<g ref="char:EOLhyphen"/>honoured by Swearing, monys waſted and many evils happen thereupon; I have heard that the <hi>Spaniard</hi> in time of Service doth baniſh unlawful games; in the Seige of <hi>Poytiers,</hi> the Admiral cau<g ref="char:EOLhyphen"/>ſed a certain Enſign to be hanged, for playing at cards while his company did watch in ſome peril; many Exerciſes ſhould be appointed them, and ſuch as can Read to get Hiſtories of War, and o<g ref="char:EOLhyphen"/>ther good books to read and diſcourſe thereof: Thus the mind and body will be well imployed, it may be ſome Soldiers would be ſo well Exerci<g ref="char:EOLhyphen"/>ſed, if there were Commanders like <hi>Caeſar,</hi> who read much, and did write his own wars; or like <hi>Pirrhus</hi> the famous Martialiſt in his time, who wrote many books; and as <hi>Hanibal</hi> in whoſe Tents were found many books which he ſtudied; brave generous ſpirits ſhould be delighted in either to read or hear read the Acts of valiant Warriers, and ſcorn baſe Play and childi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h games.</p>
+            <p n="5">5. Is <hi>Cowardlineſs,</hi> and flying out of the Hoſt to the Enemy: <hi>Cowardlineſs</hi> when a Soldier dare not for fear perform his charge: <hi>Cowards</hi> God ſent out of his Camp, when he ſent his to war, and ſo did <hi>Maccabeus; Appius Claudius</hi> did behead thoſe Soldiers, that throwing down their Arms fled from their Enemies: <hi>Licurgus</hi> made a Law amongſt the <hi>Spartans, That no man ſhould return home that turned his back upon his Enemy: Caeſar</hi> put certain Enſigns from their places, becauſe
+<pb facs="tcp:97717:19"/>they loſt their ground in an Encounter with <hi>Pom<g ref="char:EOLhyphen"/>pey</hi> at <hi>Dirrbachium:</hi> The Coward doth not on<g ref="char:EOLhyphen"/>ly help the Enemy, but diſhartens his friends; The <hi>Lacedemonian</hi> women would deliver Shields to their Sons, exhorting them to war, either to bring them again, or to dye valiently; there was among them <hi>Damatria</hi> who hearing that her ſon had not fought like a <hi>Lacedemonian,</hi> when he came ſlew him; ſo much did women there deteſt a cowardly ſpirit: flying away out of the Hoſt to the Enemy, is worthy ſevere puniſhment, ſuch baſe and treacherous ſpirits amongſt all the Sol<g ref="char:EOLhyphen"/>diers in <hi>Iſrael</hi> I never read of, the <hi>Romans</hi> puni<g ref="char:EOLhyphen"/>ſhed ſuch with death, <hi>Caius Matienus</hi> coming but home from the Army in <hi>Spain</hi> without leave, was beaten under a Gibbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſold for one piece of money, to ſignify the baſe eſteem of ſuch a Fugi<g ref="char:EOLhyphen"/>tive.</p>
+            <p n="6">6. And laſt is <hi>Murder,</hi> Theft. Filching, Ra<g ref="char:EOLhyphen"/>pine, Robery, and Sacriledge, the killing of one another; God gave a very ſtrict charge againſt it, <hi>Joab</hi> the General being guilty muſt dye for it even at the Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar; 1 <hi>Kings,</hi> 2.30.31. Captains may not like raſh-braind and bloody men, diſor<g ref="char:EOLhyphen"/>derly kill Soldiers: he that ſhall do ſo among the <hi>Spaniards,</hi> I have read, dieth for it; Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrels and Challenges thereupon with acceptances have been the loſs of many lives unworthily, hereby Princes loſe their Subjects, the Army weakned, and the Enemy thereby advantaged; Soldiers
+<pb facs="tcp:97717:20"/>lives ſhould be pretious one to another, their blood ſhould be ſpilt in the Public<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſe againſt the Enemy, not in private qua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rels, no if a man put the lye upon another: <hi>Jehu</hi> a right valiant Captain mar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uriouſly, did not quarrel with the Captains in his Company, when they ſaid it was falſe which he ſpoke, ſo putting the lye upon him, <hi>Jeremiah</hi> ſaid it was falſe, which was a lye to a Captain of the Ward; <hi>Gedeliah</hi> put the lye upon <hi>Johanan</hi> a Captain, a high and proud ſpi<g ref="char:EOLhyphen"/>rited man, and valiant too, yet none of theſe of<g ref="char:EOLhyphen"/>ferd to any the ſtab, nor did beaſt-like, more than man-like, ruſh upon one another and kill-one the other: theſe quarrelſome fellows are not ever the beſt men, drunkenneſs, who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing, ſwearing and no doubt forſwearing, are no marks of diſgrace o them, but the tearm Lye, I muſt confeſs is a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>voking word, and cowards will uſe it to pro<g ref="char:EOLhyphen"/>voke a patient yet a good ſpirited man, and found ſo when they try him, or before the face of an E<g ref="char:EOLhyphen"/>nemy; away wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h theſe deluſions of Sathan, you that are truly valiant and right Chriſtian Souldi<g ref="char:EOLhyphen"/>ers, ſuffer not your ſelves to be tranſported with this conceited diſgrace to ſeek Revenge, and ſo be guilty of blood, a crying ſin before God. Now for Theft alſo, God puniſheth <hi>Acans</hi> theft, yet theſe are too common with Soldiers, for many baſe fellows fitter for the Jayl, ye the Gallows than the wars, are no ſooner enterd into Service, but are bold to lay hands upon other mens goods,
+<pb facs="tcp:97717:20"/>which they carry away with many a bitter curſe, the curſe is upon the thief and the ſwearer, who alſo bringeth a curſe upon others, as <hi>Achan</hi> did, that one thief cauſed the overthrow of the Army, what evil then will a multitude of thieves do in an Hoſt, <hi>Aurelianus</hi> the Emperor would not ſuffer his Soldiers to take a Pullet or chicken from coun<g ref="char:EOLhyphen"/>trey people his friends: <hi>Tiberius</hi> made one of his guard to be put to death for taking a Peacock out of a mans yard, <hi>Tamberlain</hi> cauſed a Soldier to be ſlain for taking a poor womans milk and ſome cheeſe and not paying for it; <hi>Peſcenius Niger</hi> would have put to death divers Soldiers met to<g ref="char:EOLhyphen"/>gether <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſting themſelves with that they had ſtol<g ref="char:EOLhyphen"/>len, but through intreaty their lives was ſaved, yet they were puniſhed, and their puniſhment was to lye in Tents during the war without fire, to live only with bread and water, and to make reſtitution to the Husbandmen; and the reaſon gi<g ref="char:EOLhyphen"/>ven to this ſeverity, becauſe ſuch acts did tend to Rebellion. <hi>Aurelius</hi> writes an Epiſtle to Soldi<g ref="char:EOLhyphen"/>ers, to keep their hands from other mens goods, but theft is not only to be reſtrained in Soldiers, but alſo in Captains and Officers, which they may many wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es commit, by robbing poor Soldi<g ref="char:EOLhyphen"/>ers of their pay; <hi>Caeſar</hi> was ſevere againſt this villany, ſo as two of his Captains of horſe <hi>Roſ<g ref="char:EOLhyphen"/>cillus</hi> and <hi>Aegus</hi> having defrauded Souldiers of their Pay, fled to the Enemy as ſoon as they heard that <hi>Caeſar</hi> had notice of it, its an indelible
+<pb facs="tcp:97717:21"/>baſe character of infamy, ſaith one, <hi>to defraud a poor Soldier of his due.</hi> Likewiſe in taking from a Soldier his weapon or horſe: <hi>Theophilus</hi> the Emperour of the <hi>East,</hi> baniſhed a Commander out of ins Dominion, for taking a Soldiers horſe per force from him, for want whereof he was af<g ref="char:EOLhyphen"/>terwards ſtain in battel, and withal beſtowed the Commanders poſſeſſion upon the Soldiers wid<g ref="char:EOLhyphen"/>dow, albeit that Captain had beſtowed the horſe upon the Emperour himſelf, unwitting to him till the widdow claim'd him as the Emperor rode on him, Of Captains abuſing poor ſoldiers, read Sr. <hi>Tobi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Smiths</hi> Epiſtle to the Nobility of <hi>England,</hi> as Captains and Officers may not wrong ſoldiers, ſo ſoldiers may not rob one another: <hi>Modeſtina</hi> judg'd him worthy of death that ſtole his fellows <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, beſides great care muſt be had that ſoldiers do no ſpoyl, nor rob ſuch by whom they are per<g ref="char:EOLhyphen"/>mitted to paſs by peaceably, nor ſuch as be Vi<g ref="char:EOLhyphen"/>ctuallers of the Camp, ſuch muſt be ſuffered to go and come very ſecurely; the Army of the Prince of <hi>Aurange</hi> beſieging <hi>Florence;</hi> had like to have been famiſhed through the diſorder only of three or four ſoldiers which rob'd the Merchants and Victualle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which came and went from the Camp, but thoſe were hang'd and then plenty was brought in, the puniſhing of this ſin in <hi>Tamber<g ref="char:EOLhyphen"/>lains</hi> Camp; made his mighty Army of many hun<g ref="char:EOLhyphen"/>dred thouſands for to be plentifully ſerved.</p>
+            <p>Theſe are thoſe ſinful evils which principally
+<pb facs="tcp:97717:21"/>in an Army are to be ſuppreſſed and puniſhed, for by ſuppreſſing diſorders, God is honoured, the Army ſtrengthned, the Enemy diſhartned, neigh<g ref="char:EOLhyphen"/>bours and friends ſecure and incouraged to abide conſtant; but where ſin doth reign, and diſorders ſuffered, there all things fall out clean contrary, miſery and want will follow to their ruine and overthrow, God will be againſt them and friends will abandon them as unworthy of aid.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI.</head>
+            <head>Directions and Inſtructions for the Diſcipline of Foot Soldiers.</head>
+            <p>Six chief things a Soldier ought to be inſtructed in when he firſt enters himſelf to be under Command.</p>
+            <p>FIrſt to make choice of a civil comrade, and an able Soldier if he can, that he may inſtruct him to handle his Arms.</p>
+            <p n="2">2. to keep his Arms clean and fixt.</p>
+            <p n="3">3. To keep his Arms by him in a reddineſs, if ſudden occaſion ſhould happen to be called to them.</p>
+            <p n="4">4. To behave himſelf civilly in his Quarters, and to be in them in due time; and not to be out after the Taptow is beat.</p>
+            <p n="5">5. To keep himſelf clean in his linnen and clothes.</p>
+            <p n="6">
+               <pb facs="tcp:97717:22"/> 6. And Laſtly, to give reſpect to his ſuperiour and inferiour Officers and not to diſpute their commands, and to be civil to the Corporal of your Squadron that he may teach you at leiſure times to handle your Arms compleatly.</p>
+            <p>Now there is ſix neceſſary motions and po<g ref="char:EOLhyphen"/>ſtures belongs to the Exerciſe of a foot Company,</p>
+            <list>
+               <item>1. <hi>Orders,</hi>
+               </item>
+               <item>2. <hi>Faceings,</hi>
+               </item>
+               <item>3. <hi>Doublings,</hi>
+               </item>
+               <item>4. <hi>Countermarchings,</hi>
+               </item>
+               <item>5. <hi>Wheelings</hi>
+               </item>
+               <item>6. <hi>Firings.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>There is ſix Orders.</head>
+               <p n="1">1. The <hi>Cloſeſt Order,</hi> which is not a Foot be<g ref="char:EOLhyphen"/>tween Files, it is only neceſſary for a Stand of Pikes to keep off the Horſe from entring a Port or Auenew, Piles at this cloſeſt and the Ranks at Order, or cloſeſt Order, which is 3 Foot or a Foot and half, in this poſture they may keep off a par<g ref="char:EOLhyphen"/>ty of Horſe.</p>
+               <p n="2">2. Is <hi>Cloſe Order,</hi> which is a foot and half, this is neceſſary when Pikes and ſhot are inter<g ref="char:EOLhyphen"/>lin'd to charge horſe, when they have fired to fall off to the Right and Left from their Center, the Pikes Ported while they fall off, a cloſe Order is fit for Firings and Wheelings.</p>
+               <p n="3">3. Is <hi>Order,</hi> that is three foot, which is a fit diſtance between File and File, either Marching or in the Field.</p>
+               <p n="4">4. <hi>Open Order,</hi> which is ſix foot, that is com<g ref="char:EOLhyphen"/>monly between Rank and Rank, either marching
+<pb facs="tcp:97717:22"/>or in the Field, but in a March between <hi>Open Or<g ref="char:EOLhyphen"/>der</hi> and <hi>Diſtance,</hi> which may be about nine foot, is very convenient for Pikes when they march in a Body by themſelves, if the Officer thinks fit.</p>
+               <p n="5">5. Is <hi>Diſtance,</hi> which is twelve Foot; which is a very fit ſpace in time of Service, to run up Field pieces, opening from the center to the Right and Left, either in the Flanks of Muſqueteers or in the Body of Pikes, and when they have fired to run them back in the Reer, and the Files to cloſe again as they were.</p>
+               <p n="6">6. Is <hi>Double Diſtance,</hi> which is twenty four foot, this may be uſed when any great perſon is coming to view the Company, to make a guard for Ranks to open backwards, to double Diſtance or what diſtance the Officer ſees fit, according to the fulneſs of his Company; then for half Ranks, double your Right and Left hand Files from your center, every man upon the Right from the center, fall behind his right hand man, and ſo doubles the Right I and File, ſo every man upon the Left from the center doth the like, ſo you make but two files, but when you make your guard, you face to the Right and Left inwards and make two Ranks, no other word for Reducing but, <hi>Files Rank off as you were.</hi>
+               </p>
+               <p>Now take notice theſe Orders or Diſtances are to be obſerved as your Officers gives the Word of Command, either for Ranks or Files, for Ranks o open backwards, or advance forward, or Files
+<pb facs="tcp:97717:23"/>to open from the Right or from the Left, or from the Right and Left, as your Officer pleaſes to Ex<g ref="char:EOLhyphen"/>erciſe, only obſerve your word of Command when your Officer gives it, and not miſtake Ranks for Files: Now your File-leaders, your Bringers up, and your Right and Left hand Files, muſt be ſure to know their Diſtances, for the File-leaders and the Right hand File guides the whole body, ſo doth the Bringers up and Left-hand File, when they, face about, the Rear is made the Front, for a Souldier hath but two men to obſerve in Marching (<hi>Opening, Cloſing,</hi> and <hi>Countermarch<g ref="char:EOLhyphen"/>ing</hi>) that is, his Right hand man and his File-leader, File-leaders are to take their diſtance from the Right hand man, or from the Left if Comman<g ref="char:EOLhyphen"/>ded; now to keep an even Rank let every man be ſure to keep his right heell even with his Right-hand mans left heell and Files every man to keep right behind his Leader, upon Service he will find it a good ſecurity, one man ſtanding amiſs ſpoyls either Rank or File, (which is the credit of a Company) either Marching or in the Field, ſo much for the firſt fow Orders.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2.</hi> Now your ſecond is Facings which I have brought into ſix, which are neceſſary and ſer<g ref="char:EOLhyphen"/>viceable.</head>
+               <p n="1">1. FAcing either Right or Left as occaſion ſerves.</p>
+               <p n="2">
+                  <pb facs="tcp:97717:23"/> 2. Facing to the Reer.</p>
+               <p n="3">3. Facing to Front and Reer.</p>
+               <p n="4">4. Facing to the Right and Left from your cen<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="5">5. Facing to the Right and Left inward to your center.</p>
+               <p n="6">6. Facing to either Angleſ, or to all your An<g ref="char:EOLhyphen"/>gles.</p>
+               <p>Now let Soldiers obſerve in all their Facings, to turn upon the right heell, and then they ſhall keep their Ranks and Files even.</p>
+               <p>Five of theſe Facings are neceſſary for f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings, but facing to the right and left inward to your center.</p>
+               <p>The word of Command is March and inter<g ref="char:EOLhyphen"/>charge ground, then, your Body of Pikes are Hanks, and your Muſqueteers are in the body, which may charge the Horſe if the Horſe ſhould Flank them, and if you have a good ſtand of Pikes, you may interline Muſqueteers and Pikes; The word of Command is, Pikes face to your Right and Left inwards, Muſqueteers face to your Right and Left outwards from your center, then March when your Pikes and Muſque<g ref="char:EOLhyphen"/>teers are joyn'd, face to your Leader, then you you have a Rank of Muſqueteers and a Rank of Pikes; then Ranks to the Right or left hand dou<g ref="char:EOLhyphen"/>ble, take notice this muſt be it your ſtand of Pikes be equal with your Muſqueteers, if not let the odd Files of Muſqueteers that are over above be in the Flanks.</p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:97717:24"/>
+               <head>
+                  <hi>3.</hi> Is Doublings.</head>
+               <p n="1">1. DOubling Ranks either to the Right or Left.</p>
+               <p n="2">2. Doubling Files either Right or Left.</p>
+               <p n="3">3. Half Files double your Front.</p>
+               <p n="4">4. Bringers up double your Front.</p>
+               <p n="5">5. Half Ranks of the Left, face to the Right, March and double your right half Ranks, face to your Leader, then face to the Left, Reduce them. So likewiſe half Ranks of the Right, face to the Left, March and double your Left half Ranks, face to your Leader, face to the Right and reduce them.</p>
+               <div type="directions">
+                  <head>Directions.</head>
+                  <p>RAnks Doubling, every even Rank 1 doubles the 2 the 4 and the 6 movers, if you be ne<g ref="char:EOLhyphen"/>ver ſo deep, if you face about them that mo<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed before ſtands, and they that ſtood double if you double to the Right, then move with your right foot firſt, to the right hand of your Leader, at 3 ſteps or motions, as you were: fall off with your left foot firſt, and at three motions it brings you in your right ground again: Likewiſe if you double to the Left, you ſtep with the left foot firſt and fall back with your right. Now for Files you that are File-Leaders, tell from your right hand File whether you are even or odd, if even
+<pb facs="tcp:97717:24"/>you muſt double to the Right, if commanded move we with your right foot and at three motions, fall behind your right hand man, as you were, advance up with your left foot firſt in your place again. Now if you be an odd File from the right hand, you muſt double to the lef<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, with your left foot fall beind your left hand man, and with your right foot ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance in your place again when com<g ref="char:EOLhyphen"/>manded: take notice that the File-leaders and tight hand File guides Ranks and Files, for the Ranks move not till their right hand man moves, nor the Files till the File-Leader moves, when you double rank or file move altogether, not be<g ref="char:EOLhyphen"/>fore your right hand men and File-Leaders. Now for your half Files, doubling your Front the half Files is the 4. Ranks if you be ſix deep, if you dou<g ref="char:EOLhyphen"/>ble to the Right you March up of the right hand of your Leaders keeping your diſtance, then fa<g ref="char:EOLhyphen"/>cing about to the left, you March and fall into your places: ſo if to the left, you March on the left hand of your Leaders, you face about to the right and fall into your places.</p>
+                  <p>Now Bringers up to the Right or Left hand, double your Front, you move with that foot firſt as the word of Command is; the Bringers up Marches, paſſeth the <hi>5th</hi> Rank, then they March, falls into the ſecond Rank next the Front, and the half files in the third Rank reducing; face about on the contrary hand, march and fall into your pla<g ref="char:EOLhyphen"/>ces.</p>
+                  <pb facs="tcp:97717:25"/>
+                  <p> Now the ſix doubling is: Half Files face to your right and left from your center, the center is the midſt of your files, if you be even files; if not you cannot Exerciſe handſomly: if you be twelve files, you face ſix to the right and ſix to the left; the word of Command is (as I take it) March clear your Body and double your Front to the right and left intire; this poſture drawing up at the brink of a hill, you may ſeem three Bodies, being three ſtands of Pikes; now you may be re<g ref="char:EOLhyphen"/>duced two wayes; face about clear your Body, face to the right and left inwards, March, joyn, and face to your Leader.</p>
+               </div>
+               <div n="2" type="directions">
+                  <head>
+                     <hi>2.</hi> Reducement.</head>
+                  <p>Half Files face to your right and left inwards, March and double your Front half files, then face to your Leader, then face about, March and take your places.</p>
+               </div>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>4.</hi> Is Countermarches.</head>
+               <p>There is but three Countermarches, <hi>Gaining, Maintaining</hi> and <hi>Loſing</hi> ground: in your Coun-Marches your Files to be at your Open Order, your Musquets Poys'd and your Pikes advanc'd.</p>
+               <p n="1">1. <hi>Gaining</hi> ground; to your right hand ad<g ref="char:EOLhyphen"/>vance three ſteps, face about to your right, March eaſily, obſerving your right hand men which
+<pb facs="tcp:97717:25"/>was your left hand men before, let your Serjeant be in the Rear, and ſhew them their ground where they ſhall ſtand, face to your Leader, then the Front is the Rear and the Rear the Front, then countermarch them to the left, then they have gain'd ſix ſteps of ground in the Front.</p>
+               <p n="2">2. <hi>Maintaining</hi> ground; they ſtep one ſtep and fall off, either to the Right or Left.</p>
+               <p n="3">3. <hi>Loſing</hi> ground; every man falls off the ground he ſtands on and follows his Leader, ſo you loſe your whole ground.</p>
+               <p>
+                  <hi>Countermarches, Maintaining</hi> and <hi>Loſing</hi> are very neceſſary for quick firing, they all make rea<g ref="char:EOLhyphen"/>dy, then they fire and countermarch off very quick; countermarch loſing upon a Retreat is good Service; they Fire, and every man falls of upon the ground he ſtands on, upon a counter<g ref="char:EOLhyphen"/>march you may make your half files your Rear and your Front half File the Front; thus, Hal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Files to your Right hand about, then to the righ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and left hand countermarch, your Front Half Files countermarch to the Right, and your Rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Left, then to your Leader; Reduce Fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Rear half Files to your Right and Left coun<g ref="char:EOLhyphen"/>termarch, then your Front half Files to yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Left, and your Rear to the Right, they have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſame ground and the ſame places facing to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Leader: then Half Ranks countermarching, fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to your Right and Left from your center, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> countermarch to the Right and Left outward
+<pb facs="tcp:97717:26"/>then your Pikes are Flanks and your flanks the Body; to your Leader; Reduc't; Face to your Right and left from your center, then counter<g ref="char:EOLhyphen"/>march to your Right and Left inwards; to your Leader.</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>5.</hi> Is Wheelings.</head>
+               <p n="1">1. Wheeling to the Right.</p>
+               <p n="2">2. Wheeling to the Lef<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p n="3">3. Wheele to the Right hand about,</p>
+               <p n="4">4. To the Left hand about.</p>
+               <p n="5">5. Wheel to the Right and Left inwards to your center.</p>
+               <p n="6">6. Wheell is face about.</p>
+               <p>Then Wheell to the right and left inwards to the center.</p>
+               <div type="directions">
+                  <head>Directions.</head>
+                  <p>YOu muſt cloſe your Files to your cloſe Order; and Ranks to their Order; ſlope your Muſ<g ref="char:EOLhyphen"/>quets and advance your Pikes; if you wheel to the Right, your Right hand man ſtands ſtill, only <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s a hinge moves as the Body comes about upon is right heell, and the Left hand man moves the Body, and muſt obſerve a diſtance in the ground <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat he may neither cloſe nor open his Files in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heelings: now the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e-leaders muſt obſerve <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eir Left hand men in wheeling to the Right, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Right in wheeling to the Left; and if File<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaders obſerve their diſtance in their Files, the
+<pb facs="tcp:97717:26"/>Left hand men muſt move faſteſt; it will ask Offi<g ref="char:EOLhyphen"/>cers great care to teach them to wheell handſome<g ref="char:EOLhyphen"/>ly, which is a very neceſſary and commendable motion if well done, either to the Right or Left, or Right hand about, or Left hand about; the Right hand men and Left hand men in the Front be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng the chief guides in their wheelings; it is ne<g ref="char:EOLhyphen"/>ceſſary in gaining the wind of an Enemy, or in altring your Pikes and Muſqueteers either to the Front or Rear, or to your Flanks.</p>
+                  <p>As for Example, Wheell to your Right and left inwards to your center, then your Muſque<g ref="char:EOLhyphen"/>teers are in the Front and your Pikes in the Rear; when you have wheel'd facing to your Leader Reducing, wheell to your Right and Left out<g ref="char:EOLhyphen"/>wards from your center, ſo to the Rear; face a<g ref="char:EOLhyphen"/>bout and wheell to the Right and Left inwards to the center then your Pikes are in the Front, and your Muſqueteers are in the Rear; Reduce them as before. Then Half Files face about, wheell Front and Rear half Files to the Right and left in<g ref="char:EOLhyphen"/>wards to your center, then your Muſqueteers are in Front and Reer, and your Pikes in the midſt of the Body; much more may be done with Whee<g ref="char:EOLhyphen"/>ling, but I ſhall leave it to thoſe whoſe often Ex<g ref="char:EOLhyphen"/>erciſing hath learn'd what I have forgot for want of imployment.</p>
+               </div>
+            </div>
+            <div n="6" type="part">
+               <pb facs="tcp:97717:27"/>
+               <head>
+                  <hi>6.</hi> Is Firings.</head>
+               <list>
+                  <item>1. <hi>Front.</hi>
+                  </item>
+                  <item>2. <hi>Reer.</hi>
+                  </item>
+                  <item>3. <hi>Right Flank.</hi>
+                  </item>
+                  <item>4. <hi>Left Flank.</hi>
+                  </item>
+                  <item>5. <hi>Front</hi> and <hi>Reer.</hi>
+                  </item>
+                  <item>6. <hi>Both Flanks.</hi>
+                  </item>
+               </list>
+               <p>According as the Enemy chargeth them Firing to the Front.</p>
+               <p>FIrſt two Ranks make ready, Firſt Rank ad<g ref="char:EOLhyphen"/>vanceth ſix paces when he Preſents; the ſecond Rank Marches up ready to Preſent againſt the firſt hath fired; when they have fired they fall off to the Right and Left in the Reer, loading again as faſt as they can: this Firing is proper, Marching towards the Enemy; but when they approach nearer the Enemy, then All make ready, the two firſt Ranks advanceth 3 paces, Preſents, Fires, falls off the firſt Rank ſtooping, the next ſtanding.</p>
+               <p>The third firing is three Ranks advanceth, firſt kneeling, 2 ſtooping, the 3 ſtanding. The firſt and ſecond fires, the third preſents, if commanded fires. This poſture of firing is moſt commonly fired by Diviſions; the Diviſions that fires ſtands ſtill and make ready again while others advanceth and Fires.</p>
+               <p>There is another firing advancing upon the E<g ref="char:EOLhyphen"/>nemy, and very neceſſary, interlin'd with Pikes, charging they all make ready the firſt Rank, Fires, Stands, makes ready again, the ſecond Rank advanceth before them, the third be fore them ſo advanceth ſtill as long as your
+<pb facs="tcp:97717:27"/>Officers ſees advantage, the Pikes ſtill advancing with them; I need not give any Directions for the Reer or Flanks firing, the Reer firing is for a Retreat, and the Flanks is either for advancing or Retreating.</p>
+               <p>Now I ſhall only give you my opinion concer<g ref="char:EOLhyphen"/>ning the Poſtures of Pike and Muſquet, which is the ſhorteſt and ſpeedieſt way to make young Sol<g ref="char:EOLhyphen"/>diers fit for preſent Service.</p>
+               <div type="directions">
+                  <head>For the Pikes, I have reduc't into ſix.</head>
+                  <list>
+                     <item>1. <hi>Is Order your Pike.</hi>
+                     </item>
+                     <item>2. <hi>Advance.</hi>
+                     </item>
+                     <item>3. <hi>Shoulder.</hi>
+                     </item>
+                     <item>4. <hi>Port.</hi>
+                     </item>
+                     <item>5. <hi>Comport.</hi>
+                     </item>
+                     <item>6. <hi>Cheek</hi> &amp; <hi>Trail,</hi> which is very little difference only removing the hand. For your Order it is a fit poſture for a Centry in the day time to be ſet at any Carriages belonging to the Magazeen or Artilery; and when you ſtand to your Arms in the Field: for your advance it is a fit Poſture to Troop home your Colours; to fetch your Colours; when you wheell or coun<g ref="char:EOLhyphen"/>termarch, or when you are interlin'd with Muſ<g ref="char:EOLhyphen"/>queteers, to be ready to Port or Charge.</item>
+                  </list>
+                  <p>Shoulder is for a March.</p>
+                  <p>Port is only when you enter a gate, or Por<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that you may be ready to Charge if you were op<g ref="char:EOLhyphen"/>poſed by Horſe.</p>
+                  <p>Comport is neceſſary when you March up Hill.</p>
+                  <pb facs="tcp:97717:28"/>
+                  <p> Cheek is a fit Centry poſture in the night.</p>
+                  <p>Trayl is only fit for your Marching throw a a cops or wood in the night, every man to take hold of his Leaders butt end of his Pike and joyn it with his Spear end, March eaſily, your Files Marcheth out compleatly as they enter in, Now you may charge from all theſe poſtures, but never us'd upon Service, nor neceſſary only 3 which is, from your ſhoulder, Advance and port, there is two Poſtures more, Charging to the Horſe, and your Funeral poſture.</p>
+                  <p>The Firſt, from your Order to your inſide Or<g ref="char:EOLhyphen"/>der; that is, your Butt end of your Pike, in the inſide your right foot, your left hand holding your Pike; with your right hand draw your Sword over your left arm, bending with your right knee, keeping firm your Pike with your <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oot, charging to the breſt of the Horſe, you may face and charge any way, turning on your right heell; when you have done charging, Order your Pikes; lock your Pike with your right legg and <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eath your Sword.</p>
+                  <p n="2">2. Your Funeral Poſture, you only ground our Pikes to the left hand of your Leaders, and <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ce to the Left hand about, ſo Trail; take notice <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your Funeral poſture the Rear and youngeſt Officer Leads, the leſs you are Exercis'd with it <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he better it is for your Company.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:97717:28"/>
+               <head>Six chief and neceſſary Poſtures of the Muſquet.</head>
+               <p n="1">1. <hi>ORder,</hi> which is anſwerable to Pikes, Order the Butt end cloſe to your right foot with your Lock outwards, your right hand up to your Muzz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l end, but not over your Muzzel, and your left hand akembow by your ſide, (having no Reſt) which is a graceful poſture.</p>
+               <p n="2">2. <hi>Poyſe,</hi> which is anſwerable to your advance of Pike; your right hand cloſe under the Pan, and your thumb up the ſide of your Pan.</p>
+               <p n="3">3. <hi>Shoulder,</hi> which is anſwerable to Pikes be<g ref="char:EOLhyphen"/>ing ready for a March.</p>
+               <p n="4">4. <hi>Joyn</hi> your left hand holding your Muſquet by the ſtock, the Barrel upwards, under your Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k at a Ballance, yet your Muzzel mounted, your right hand imployed either to your center poſture or guarding your Pan, when you ſtand made ready or Marching under a Gate or Port.</p>
+               <p>
+                  <hi>Preſent,</hi> a compleat poſture if you ſtand well, with a full body, your Muſquet breech cloſe to your right ſhoulder holding your elbow up, your left foot ſtanding a little further than the right, your heels bending ſomething inwards, and your toes a little outward, leaning your ſhoulder a little forwards cloſe to your Muſquet, your face upright,
+<pb facs="tcp:97717:29"/>not bending to the Lock of your Muſquet as if you were aiming at a mark.</p>
+               <p n="6">6. <hi>Firing.</hi> breſt high or ſomething low<g ref="char:EOLhyphen"/>er.</p>
+               <p>Now when you are commanded to load your Muſquets either from your Order or ſhoulder.</p>
+               <p n="1">1. Joyn or ballance your Muſquet.</p>
+               <p n="2">2. Open your Pan and clear it with your Thumb, or a little ſcut or Furr, which your nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Soldiers will have hang at their Bandeleers, which will clear better than your thumb.</p>
+               <p n="3">3. Prime your Pan, handle your Primer with your two forefingers and your thumb, ſo Prime over the breech of your Pan</p>
+               <p n="4">4. Shut your Pan, eaſt about, in your caſting about, ſhake off your looſe corns of Powder that is on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of your Pan, for in trying your match it may do a miſchief; in caſting about, ſtep forwards with your right leg, holding your Muſ<g ref="char:EOLhyphen"/>quet in your l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft hand, with your barrel down<g ref="char:EOLhyphen"/>wards.</p>
+               <p n="5">5. <hi>Charge</hi> and load wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h bullet: open your Bandeleers with your teeth, charge with Powder, draw forth your ſcourer, ſhorten it to an inch, take the bullet out of your mouth; ram down your bullet, recover your ſcourer, ſhortning him upon your breſt to a handful or more, and hold ſo with your fingers that you endanger not your hand over the Muzzle, if he ſhould fire by chance being hot in Service, ſome ſparks may lye in
+<pb facs="tcp:97717:29"/>the breech of him, when you have Loaded.</p>
+               <p n="6">6. Recover and Poys, caſting back your right foot, then you are ready e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her to Order or ſhoul<g ref="char:EOLhyphen"/>der, as your Officer thinks fit.</p>
+               <p>When you are commanded to make ready.</p>
+               <p>Firſt is, Joyn or ballance again.</p>
+               <p n="2">2. Draw forth your Match, blow your Coal.</p>
+               <p n="3">3. Cock and fit your Match.</p>
+               <p n="4">4. Guard your Pan with your two fingers over your Pan.</p>
+               <p n="5">5. Preſent, when you preſent blow your Coal again.</p>
+               <p n="6">6. Fire.</p>
+            </div>
+            <div type="part">
+               <head>There is Six good Inſtructions for Soldiers to Ob<g ref="char:EOLhyphen"/>ſerve for Firing well.</head>
+               <p n="1">1. To keep good Priming Powder</p>
+               <p n="2">2. To keep a good Coal in your Match</p>
+               <p n="3">3. To try and make fit your Match, that you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Coal may rather bruiſe at the breech of your Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> than Cock too ſhort.</p>
+               <p n="4">4. Carry your Arms fair, when you ſtand made ready, for fear your Peice going off yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may offend your Leader.</p>
+               <p n="5">5. When you Preſent blow your Match, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Preſent breaſt high, rather lower, bend your pre<g ref="char:EOLhyphen"/>ſenting a little towards the left; if you be on th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> right Diviſion, if the left, bend a little toward the Right, for firing foreright, your ſhot ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:97717:30"/>go thorow the Files, which thus levelling a little a croſs your ſhot muſt do execution in the body, and ſpecially if you be near your Enemy.</p>
+               <p n="6">6. When you Fire, draw your Tricker but once, if he fires not, fall off and mount your Piece going off, if he ſhould fire he might do no harm to your Leader.</p>
+               <p>I ſhall not preſume to give inſtructions to any Officers what their duties is, only theſe ſix pro<g ref="char:EOLhyphen"/>perties they ought to be endowed with.</p>
+               <list>
+                  <item>1. <hi>Courage.</hi>
+                  </item>
+                  <item>2. <hi>Policy.</hi>
+                  </item>
+                  <item>3. <hi>Patience.</hi>
+                  </item>
+                  <item>4. <hi>Humility.</hi>
+                  </item>
+                  <item>5. <hi>Mercy.</hi>
+                  </item>
+                  <item>6. <hi>Charity.</hi>
+                  </item>
+               </list>
+               <p>Courage and Policy are good Companions in the Field before the face of an Enemy, Patience and Humility will gain the love of Soldiers and all others.</p>
+               <p>Patience will Teach and Diſcipline a Company ſooner than any haſty or paſſionate words or blows can do.</p>
+               <p>When you give the word of Command, give them time, and ſhew them how it ſhould be done, if they be young Soldiers, if old Soldiers and neg<g ref="char:EOLhyphen"/>lectful, then ought ſome ſeverity to be uſed.</p>
+               <pb facs="tcp:97717:30"/>
+               <p> Mercifulneſs, in not too ſeverely puniſhing, if they be not common offenders.</p>
+               <p>Charitableneſs, In taking care of them in their ſickneſs, or lying wounded when their Pay cannot maintain them: or if they are taken Priſoners to get them Exchanged or ſend them Relief if you can.</p>
+               <p>Theſe things will make your Soldiers ſtick to you in time of Service, and venture their lives if they ſee you ingaged, to fetch you off.</p>
+               <p>
+                  <hi>Gentlemen, or Fellow Soldiers, I have ſent this <hi>Old Engliſh Officer</hi> amongſt you, how he will be intertaind I know not, I hope ſome will respect him for his Loyalty, though by ſome others ſlighted for his Indigency; he looks for no entertainment of Self-conceited Time-ſervers and ſelf-ended men, for they diſdain Loyalty if clothed with Poverty.</hi>
+               </p>
+               <lg>
+                  <l>God and a Souldier they alike adore,</l>
+                  <l>Juſt at the brink of danger, not before,</l>
+                  <l>The danger paſt they are both alike required,</l>
+                  <l>God is forgot, and the Soldier ſlighted.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:97717:31"/>
+                  <l>Learning and Arts by most theſe days we ſee</l>
+                  <l>Are Honour'd and Reſpected, when they Age<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be.</l>
+                  <l>VVhy ſhould Old Soldiers then be ſlighted when they have gain'd</l>
+                  <l>Experience in the Field, and Honour have ob<g ref="char:EOLhyphen"/>tain'd.</l>
+                  <l>Incouragement will make us young, being try'd it might appear,</l>
+                  <l>For in midſt of dangers, we are too Old to fear.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="license">
+            <p>Liſenced</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octo.</hi> 22.</date>
+               </dateline>
+               <signed>R. L'Eſtrange.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97717:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
